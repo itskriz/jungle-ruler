@@ -2,6 +2,7 @@
 A custom wordpress theme. Still in very early development.
 
 ## Installation
+Theme is still in early development and not ready for installation at this time.
 
 ## Credits
 This theme leverages the following libraries, plugins, and scripts:
